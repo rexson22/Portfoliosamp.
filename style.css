@@ -209,6 +209,11 @@ section{
 .about-content p{
     font-size: 1.8rem;
 }
+.about-content h4{
+    font-size: 3rem;
+}.about-content ul{
+    font-size: 1.8rem;
+}
 .about-content .btn{
     margin: 3rem 0;
 }
