@@ -186,6 +186,8 @@ section{
 
 .about{
     display: flex;
+     padding-bottom: 4rem;
+    border-top: 1px solid #9bd705;
     justify-content: center;
     align-items: center;
     gap: 10rem;
@@ -232,6 +234,8 @@ section{
 }
 .services{
     background-color: var(--bg-color);
+     padding-bottom: 4rem;
+    border-top: 1px solid #9bd705;
     color: #000000;
 }
 .services h2{
@@ -284,6 +288,8 @@ section{
 
 .projects{
     background-color: var(--second-bg-color);
+     padding-bottom: 4rem;
+    border-top: 1px solid #9bd705;
 }
 .projects-box{
     display: grid;
@@ -325,7 +331,9 @@ section{
 }
 
 .contact{
-    background-color: var(--bg-color); 
+    background-color: var(--bg-color);
+    border-top: 1px solid #9bd705;
+    border-bottom: 1px solid #9bd705;
 }
 .contact h2{
     margin-bottom: 3rem;
