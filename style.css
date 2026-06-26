@@ -208,11 +208,17 @@ section{
 }
 .about-content p{
     font-size: 1.8rem;
+    text-align: left;
 }
 .about-content h4{
     font-size: 3rem;
-}.about-content ul{
+    text-align: left;
+}.about-content li{
     font-size: 1.8rem;
+    text-align: left;
+}
+.about-content .btn{
+    margin: 3rem 0;
 }
 .about-content .btn{
     margin: 3rem 0;
